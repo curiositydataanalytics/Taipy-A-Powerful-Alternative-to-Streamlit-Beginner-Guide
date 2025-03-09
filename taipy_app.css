@@ -1,0 +1,32 @@
+.code-block {
+  background-color: #282c34;
+}
+
+.taipy-text.code_block {
+  font-family: 'Fira Code', monospace;
+  font-size: 14px;
+  color: #abb2bf;
+  background-color: #282c34;
+  padding: 10px;
+  border-radius: 12px;
+  overflow-x: auto;
+  white-space: pre-wrap;
+}
+
+.taipy-text.yellow {
+  color: #d4d804;
+}
+
+.taipy-text.blue {
+  color: #ffffff;
+  background-color: #00A6ED;
+  padding: 1px;
+  border-radius: 12px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.taipy-text.size20 {
+  font-size: 20px;
+}
+
